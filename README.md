@@ -25,7 +25,7 @@ I'm a fourth-year computer science student. I like taking messy real-world data 
 ### Featured work
 
 <p align="center">
-  <a href="https://github.com/brachify/brachify"><img src="assets/cards/brachify.svg" width="49%" alt="brachify" /></a>
+  <a href="https://github.com/fullsendit-sj235/fullsendit-sj235/blob/main/projects/brachify.md"><img src="assets/cards/brachify.svg" width="49%" alt="brachify" /></a>
   <a href="https://github.com/fullsendit-sj235/weather-analytics-pipeline"><img src="assets/cards/rainfall.svg" width="49%" alt="Rainfall Perception Predictor" /></a>
   <a href="https://github.com/fullsendit-sj235/Fire-Prediction"><img src="assets/cards/wildfire.svg" width="49%" alt="Wildfire Prediction" /></a>
   <a href="https://github.com/fullsendit-sj235/scansave"><img src="assets/cards/scansave.svg" width="49%" alt="ScanSave" /></a>

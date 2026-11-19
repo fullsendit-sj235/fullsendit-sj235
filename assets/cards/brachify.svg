@@ -22,7 +22,7 @@
     <rect width="460" height="196" fill="url(#glow)"/>
     <rect width="4" height="196" fill="#60A5FA"/>
     <text x="24" y="44" class="title">brachify</text>
-    <text x="24" y="66" class="repo">brachify/brachify</text>
+    <text x="24" y="66" class="repo">capstone · private repo</text>
     <rect x="354.8" y="27" width="81.2" height="24" rx="12" fill="#60A5FA" fill-opacity="0.12" stroke="#60A5FA" stroke-opacity="0.45"/>
     <text x="395.4" y="43.5" text-anchor="middle" class="pill">Capstone</text>
     <text x="24" y="106" class="desc">Desktop app that turns DICOM brachytherapy</text>
